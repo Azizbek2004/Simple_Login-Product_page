@@ -1,5 +1,3 @@
-// src/pages/index.tsx
-
 import React from "react";
 import { Typography, Button, Stack } from "@mui/material";
 import Link from "next/link";
